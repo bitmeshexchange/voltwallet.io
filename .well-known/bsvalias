@@ -1,0 +1,9 @@
+{
+  "bsvalias": "1.0",
+  "capabilities": {
+    "6745385c3fc0": false,
+    "pki": "https://api.laxo.io/bsvalias/id/{alias}@{domain.tld}",
+    "paymentDestination": "https://api.laxo.io/bsvalias/address/{alias}@{domain.tld}",
+    "a9f510c16bde": "https://api.laxo.io/bsvalias/verifypubkey/{alias}@{domain.tld}/{pubkey}"
+  }
+}
